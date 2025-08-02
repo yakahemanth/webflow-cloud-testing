@@ -15,6 +15,9 @@ import Lenis from "lenis";
     }
     
     requestAnimationFrame(raf);
+
+    console.log(lenis);
+
       
     
   
